@@ -4,6 +4,8 @@
 If you are using an M1/M2 mac, you need to use the arm verison of Ubuntu.
 It can be downloaded [here](https://ubuntu.com/download/server/arm)
 
+You can also use [UTM](https://mac.getutm.app/) as your virtual machine manager.
+
 ### GUI
 if you want a gui (Graphical User Interface), google for "install gui on ubuntu server" because I don't want to just rewrite a tutorial that already exists online.
 
@@ -20,4 +22,4 @@ sudo chmod 777 install.sh
 sudo ./install.sh
 ```
 
-Then just wait a bit
+Then just wait a bit!
