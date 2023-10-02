@@ -1,3 +1,4 @@
+apt update -y
 apt install gcc -y
 apt install make -y
 apt install doxygen -y
