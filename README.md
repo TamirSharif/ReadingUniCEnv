@@ -2,6 +2,7 @@
 Bash script for setting up a C/C++ environment
 
 Copy paste each line individually
+(you can auto completle a file/folder name by cicking tab, but this won't work for the url)
 
 ```
 sudo apt install git
