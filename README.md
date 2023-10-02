@@ -10,3 +10,5 @@ cd ReadingUniCEnv
 sudo chmod 777 install.sh
 sudo ./install.sh
 ```
+
+Then just wait a bit, and reconsider your life decisions
