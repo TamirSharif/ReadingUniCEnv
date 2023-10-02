@@ -1,2 +1,2 @@
 # ReadingUniCEnv
-Bash script for setting up a C/Cp
+Bash script for setting up a C/C++ environment
