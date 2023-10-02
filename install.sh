@@ -7,4 +7,4 @@ apt install texlive-latexlbase -y
 apt install textlive-fonts-recomened textlive-fonts-extra textlive-latex-extra -y
 apt install plantuml -y
 apt install graphviz -y
-echo "You were told to not run random scripts from the internet and you didn't listen" >> smh.txt
+echo "You were told to not run random scripts from the internet and you didn't listen" >> ~/smh.txt
