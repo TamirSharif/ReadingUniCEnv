@@ -1,7 +1,7 @@
 # ReadingUniCEnv
 
 ## Download Linux OS for ARM
-If you are using an M1/M2 mac, you need to use a arm verison of ubuntu.
+If you are using an M1/M2 mac, you need to use the arm verison of Ubuntu.
 It can be downloaded [here](https://ubuntu.com/download/server/arm)
 
 ## Bash script for setting up a C/C++ environment
