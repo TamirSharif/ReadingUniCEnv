@@ -23,3 +23,5 @@ sudo ./install.sh
 ```
 
 Then just wait a bit!
+
+(if any pop ups come up to tell you to restart services just press tab to click cancel)
